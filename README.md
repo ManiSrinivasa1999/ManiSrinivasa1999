@@ -1,24 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mani</h1>
 <h3 align="center">Software Engineer at Optum🌟.</h3>
 
-<br>
-
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://profile-counter.glitch.me/%7Bmanisrinivasa1999%7D/count.svg"
     alt="mani" /> 
   </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/manisrinivasa1999/manisrinivasa1999/blob/main/animation_500_kxa883sd.gif" alt="mani" /></p>
+ <p><img align="right" src="https://github.com/manisrinivasa1999/manisrinivasa1999/blob/main/animation_500_kxa883sd.gif" alt="mani" /></p>
 
 
 - 🌱 I’m currently learning Django.
 
 - 📫 How to reach me **manisrinivasa1999@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,9 +20,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
-
-<br>
-
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
   <ul>
@@ -44,8 +32,6 @@
     <li>Typescript</li>
   </ul>
 </p>
-<br>
-
 <h3 align="left">Tools and Frameworks</h3>
 <p align="left"> 
   <ul>
