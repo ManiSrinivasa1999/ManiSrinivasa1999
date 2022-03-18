@@ -7,7 +7,7 @@
   </p>
  <p><img align="right" src="https://github.com/manisrinivasa1999/manisrinivasa1999/blob/main/animation_500_kxa883sd.gif" alt="mani" /></p>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
 ✉️ &nbsp;You can shoot me an email at **manisrinivasa1999@gmail.com** I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1XH5AsUROthMlpvd45qS5H4FA4i4t_pOj/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
