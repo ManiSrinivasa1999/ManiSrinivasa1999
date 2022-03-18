@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mani</h1>
 <h3 align="center">Software Engineer at Optum🌟.</h3>
+<h3 align="center"></h3>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://profile-counter.glitch.me/%7Bmanisrinivasa1999%7D/count.svg"
     alt="mani" /> 
   </p>
  <p><img align="right" src="https://github.com/manisrinivasa1999/manisrinivasa1999/blob/main/animation_500_kxa883sd.gif" alt="mani" /></p>
 
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 
-- 🌱 I’m currently learning Django.
-
-- 📫 How to reach me **manisrinivasa1999@gmail.com**
+✉️ &nbsp;You can shoot me an email at **manisrinivasa1999@gmail.com** I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1XH5AsUROthMlpvd45qS5H4FA4i4t_pOj/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,5 +56,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manisrinivasa1999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="mani" /></p>
-
-      
