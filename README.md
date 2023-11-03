@@ -1,50 +1,61 @@
-<h1 align="center">Hi 👋, I'm Mani</h1>
-<h3 align="center">Software Engineer at Optum🌟.</h3>
-<h3 align="center"></h3>
+<h1 align="center">Hi there! 👋, I'm Mani</h1>
+<h3 align="center">Software Engineer at Optum 🚀</h3>
+<br />
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://profile-counter.glitch.me/%7Bmanisrinivasa1999%7D/count.svg"
-    alt="mani" /> 
-  </p>
- <p><img align="right" src="https://github.com/manisrinivasa1999/manisrinivasa1999/blob/main/animation_500_kxa883sd.gif" alt="mani" /></p>
+<p>I am a passionate and highly skilled Full Stack Web Developer with a strong background in both front-end and back-end web development. I am dedicated to creating responsive, efficient, and user-friendly applications, and I thrive on taking complex problems and turning them into simple and elegant solutions.</p>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-
-✉️ &nbsp;You can shoot me an email at **manisrinivasa1999@gmail.com** I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1XH5AsUROthMlpvd45qS5H4FA4i4t_pOj/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/manisrinivasa/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/manisrinivasa3" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
-<h3 align="left">Programming Languages</h3>
-<p align="left"> 
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Javascript</li>
-    <li>Python</li>
-    <li>C/C++</li>
-    <li>Java</li>
-    <li>Typescript</li>
-  </ul>
-</p>
-<h3 align="left">Tools and Frameworks</h3>
-<p align="left"> 
-  <ul>
-    <li>GIT</li>
-    <li>ReactJS</li>
-    <li>VueJS</li>
-    <li>Angular</li>
-    <li>NuxtJS</li>
-    <li>NodeJS</li>
-    <li>Firebase</li>
-  </ul>
-</p>
+<div style="display: flex; width: 100%;">
+  <div style="flex-basis: 20%; padding: 10px;">
+    <h3>Front-End Skills</h3>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React.js</li>
+      <li>NextJS</li>
+      <li>VueJS</li>
+      <li>NuxtJs</li>
+    </ul>
+  </div>
+  <div style="flex-basis: 30%; padding: 10px;">
+    <h3>Back-End Skills</h3>
+    <ul>
+      <li>Node.js</li>
+      <li>Express.js</li>
+      <li>SQL (MySQL, PostgreSQL)</li>
+      <li>NoSQL (MongoDB)</li>
+      <li>RESTful APIs</li>
+      <li>Firebase</li>
+    </ul>
+  </div>
+  <div style="flex-basis: 50%; padding: 10px;">
+    <h3>Other Tools and Technologies</h3>
+    <div style="display: flex;">
+      <div style="width: 50%">
+        <ul>
+          <li>Data Structures</li>
+          <li>ALgorithms</li>
+          <li>Python</li>
+          <li>Java</li>
+          <li>Jenkins</li>
+          <li>Github Actions</li>
+          <li>Webpack</li>
+        </ul>
+      </div>
+      <div style="width: 50%">
+        <ul>
+          <li>Eslint</li>
+          <li>Docker</li>
+          <li>Vscode</li>
+          <li>AWS Services</li>
+          <li>Kafka/GCP Kafka</li>
+          <li>Azure Services</li>
+          <li>Springboot</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
