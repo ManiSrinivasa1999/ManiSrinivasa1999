@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋, I'm Mani</h1>
-<h3 align="center">Software Engineer at Optum 🚀</h3>
+<h3 align="center">Senior Software Engineer at Optum 🚀</h3>
 <br />
 
 <p>I am a passionate and highly skilled Full Stack Web Developer with a strong background in both front-end and back-end web development. I am dedicated to creating responsive, efficient, and user-friendly applications, and I thrive on taking complex problems and turning them into simple and elegant solutions.</p>
