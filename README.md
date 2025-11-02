@@ -124,7 +124,7 @@ Currently, I’m expanding my knowledge in **AI/ML** and always looking for oppo
 
 ### 🏆 Achievements
 
-- 🥈 **Runner-Up — Flipr Hackathon (Feb 2023)**  
+- 🥈 **Runner-Up — Flipr Hackathon (Feb 2021)**  
   - Built a real-time analytics dashboard with filtering, graphs, and mobile responsiveness  
   - Live: [https://covid-19-39e2f.web.app/](https://covid-19-39e2f.web.app/)
 
